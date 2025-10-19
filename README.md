@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/FSaurenbach/NERV/blob/paradigm/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/FSaurenbach/NERV?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/FSaurenbach/NERV/commits/sixteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/FSaurenbach/NERV/paradigm?style=for-the-badge"/></a>
+  <a href="https://github.com/FSaurenbach/NERV/commits/sixteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/FSaurenbach/NERV/sixteen?style=for-the-badge"/></a>
   <a href="https://github.com/FSaurenbach/NERV/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/FSaurenbach/NERV?style=for-the-badge"/></a>
   <a href="https://github.com/FSaurenbach/NERV/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/FSaurenbach/NERV?style=for-the-badge"/></a>
   <a href="https://github.com/FSaurenbach/NERV/actions/workflows/build.yml"><img loading="lazy" src="https://img.shields.io/github/actions/workflow/status/FSaurenbach/NERV/build.yml?style=for-the-badge"/></a>
