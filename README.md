@@ -2,21 +2,15 @@
   <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
 <p align="center">
-  <a href="https://github.com/yagzie/NERV/blob/paradigm/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/yagzie/NERV?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/yagzie/NERV/commits/paradigm"><img loading="lazy" src="https://img.shields.io/github/last-commit/yagzie/NERV/paradigm?style=for-the-badge"/></a>
-  <a href="https://github.com/yagzie/NERV/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/yagzie/NERV?style=for-the-badge"/></a>
-  <a href="https://github.com/yagzie/NERV/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/yagzie/NERV?style=for-the-badge"/></a>
-  <a href="https://github.com/yagzie/NERV/actions/workflows/build.yml"><img loading="lazy" src="https://img.shields.io/github/actions/workflow/status/yagzie/NERV/build.yml?style=for-the-badge"/></a>
+  <a href="https://github.com/FSaurenbach/NERV/blob/paradigm/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/FSaurenbach/NERV?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/FSaurenbach/NERV/commits/paradigm"><img loading="lazy" src="https://img.shields.io/github/last-commit/FSaurenbach/NERV/paradigm?style=for-the-badge"/></a>
+  <a href="https://github.com/FSaurenbach/NERV/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/FSaurenbach/NERV?style=for-the-badge"/></a>
+  <a href="https://github.com/FSaurenbach/NERV/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/FSaurenbach/NERV?style=for-the-badge"/></a>
+  <a href="https://github.com/FSaurenbach/NERV/actions/workflows/build.yml"><img loading="lazy" src="https://img.shields.io/github/actions/workflow/status/FSaurenbach/NERV/build.yml?style=for-the-badge"/></a>
 </p>
 <p align="center">UN1CA <i>(/ˈu.ni.ka/)</i> is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
 
-<p align="center">
-  <a href="https://t.me/unicarom">💬 UN1CA Telegram</a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/SE_NERV">💬 NERV Telegram</a>
-</p>
+WIP
 
 # What is UN1CA?
 UN1CA is a work-in-progress custom firmware for Samsung Galaxy devices. It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
