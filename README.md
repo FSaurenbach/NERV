@@ -70,4 +70,4 @@ A big thanks goes to the following for their invaluable contributions in no part
 - *All the UN1CA project contributors and testers ❤️*
 
 # Stargazers over time
-[![Stargazers over time](https://starchart.cc/yagzie/NERV.svg)](https://starchart.cc/yagzie/NERV)
+[![Stargazers over time](https://starchart.cc/FSaurenbach/NERV.svg)](https://starchart.cc/FSaurenbach/NERV)
