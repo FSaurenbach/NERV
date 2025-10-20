@@ -579,6 +579,6 @@ zip -r ../$ZIP_FILE_NAME ./*
 cd - &> /dev/null
 
 echo "Deleting tmp dir"
-#rm -rf "$TMP_DIR"
+rm -rf "$TMP_DIR"
 
 exit 0
