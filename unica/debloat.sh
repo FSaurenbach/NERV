@@ -38,8 +38,6 @@ system/etc/sysconfig/samsungsimunlock.xml
 system/lib64/android.security.securekeygeneration-ndk.so
 system/lib64/libssu_keystore2.so
 system/priv-app/SsuService
-system/priv-app/SearchSelector
-system/priv-app/SamsungSmartSuggestions
 "
 
 if [[ "$TARGET_SINGLE_SYSTEM_IMAGE" = "essi" ]]; then
@@ -97,9 +95,6 @@ system/app/SamsungTTSVoice_th_TH_f00
 system/app/SamsungTTSVoice_vi_VN_f00
 system/app/SilentLog
 system/etc/init/samsung_pass_authenticator_service.rc
-system/etc/permissions/privapp-permissions-com.samsung.android.smartsuggestions.xml
-system/etc/default-permissions/default-permissions-com.samsung.android.smartsuggestions.xml
-system/system/etc/sysconfig/samsungsmartsuggestions.xml
 system/etc/permissions/privapp-permissions-com.microsoft.skydrive.xml
 system/etc/permissions/privapp-permissions-com.samsung.android.authfw.xml
 system/etc/permissions/privapp-permissions-com.samsung.android.carkey.xml
