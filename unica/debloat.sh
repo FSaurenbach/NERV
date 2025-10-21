@@ -70,6 +70,7 @@ app/Maps
 app/YouTube
 overlay/GmsConfigOverlaySearchSelector.apk
 priv-app/Messages
+priv-app/SearchSelector
 "
 
 SYSTEM_DEBLOAT+="
