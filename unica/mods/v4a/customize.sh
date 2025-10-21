@@ -26,7 +26,7 @@ for f in ${CFGS}; do
 done
 
 
-V4A_APK="https://github.com/WSTxda/ViperFX-RE-Releases/releases/download/7.2/viperfx-release.apk"
+V4A_APK="https://github.com/WSTxda/ViperFX-RE-Releases/releases/download/8.0/viperfx-release.apk"
 APK_PATH="system/preload/Viper4AndroidFX-RE/com.wstxda.viper4android==/base.apk"
 
 DOWNLOAD_FILE "$V4A_APK" "$WORK_DIR/system/$APK_PATH"
