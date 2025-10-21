@@ -20,6 +20,4 @@
 # - DO NOT add the partition name at the start of any entry (eg. "/system/dpolicy_system")
 # - DO NOT add a slash at the start of any entry (eg. "/dpolicy_system")
 
-SYSTEM_DEBLOAT+="
-    system/etc/init/ssu_dm1qxxx.rc
-    "
+
